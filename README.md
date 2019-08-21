@@ -5,6 +5,6 @@
 # Pages
 <ul>
   <li>
-    <i href="jrthielman.github.io/docker-demo">Docker demo</i>
+    <a href="https://jrthielman.github.io/docker-demo">Docker demo</a>
   </li>
 </ul>
